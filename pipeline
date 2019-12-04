@@ -1,4 +1,5 @@
-node{
+node()
+{
 stage("frist stage"){
     sh "echo hello world 1"
     }
