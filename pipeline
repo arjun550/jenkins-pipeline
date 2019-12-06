@@ -9,8 +9,6 @@ stage("2nd stage") {
    stage('3rd stage') {
     sh "mkdir bamdev"
    }
-   stage('3rd stage') {
-    sh "mkdir bamdeav"
-   }
+   
    
 }
